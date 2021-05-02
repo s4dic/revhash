@@ -214,7 +214,7 @@ function morse {
 				$Punctuation_dollar ) morsedecode=$(echo $morsedecode)'$'; ;; # '$'
 				$Punctuation_at ) morsedecode=$(echo $morsedecode)'@'; ;; # '@'
 				$Punctuation_reverse_question_mark ) morsedecode=$(echo $morsedecode)'¿'; ;; # '¿'
-				$Punctuation_reverse_exclamation_mark ) morsedecode=$(echo $morsedecode)'¡'; ;; # '	¡'
+				$Punctuation_reverse_exclamation_mark ) morsedecode=$(echo $morsedecode)'¡'; ;; # '¡'
 				$Punctuation_morsespace ) morsedecode=$(echo $morsedecode)'#'; ;; # ' '
 				#international characters & digrams
 				$Int_char_A_V1 ) morsedecode=$(echo $morsedecode)'Ä'; ;; # 'Ä'
