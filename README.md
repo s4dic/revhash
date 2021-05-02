@@ -5,14 +5,13 @@ support:
 ```
 - Binary
 - Base64
-- Base32"
+- Base32
 - Hexa
 - Cesar
 - Reverse
 - Morse
 - Vigenere
 ```
-
 ### Usage:
 ```
 ./revhash.sh "YOUR-HASH-HERE"
