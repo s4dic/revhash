@@ -271,6 +271,8 @@ case $choice in
 	echo "_______"
 	reverse
 	echo "_______"
+	morse
+	echo "_______"	
 	;;
 	1 )
 	binary
